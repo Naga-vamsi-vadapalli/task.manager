@@ -1,0 +1,27 @@
+.user-dashboard {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    background-color: rgb(162, 234, 234);
+    background: transparent;
+    
+  }
+  
+  .dashboard-content {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .task-bar{
+    background-color: rgb(85, 85, 156);
+    background: transparent;
+    height: 50px
+    ;
+  }
+  .tasklist{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  /* Add more styling as needed */
+  
